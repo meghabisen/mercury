@@ -41,7 +41,7 @@ public class mercurymvn2 {
 		System.out.println("Flight Finder image is displayed");  
 	  driver.findElement(By.linkText("SIGN-OFF")).click();
 	  System.out.println("logout 1User");
-	  System.out.println("megha 89");
+	  System.out.println("megha 89 fef");
   }
   @Test
   public void loginuser2() 
